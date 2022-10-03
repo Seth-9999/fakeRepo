@@ -17,4 +17,5 @@ button = tk.Button(root, text="Click", font="Arial 36")
 button.grid(row=0, column=0)
 button["command"] = pprint
  
+print("This was added by that fake guy")
 root.mainloop()
