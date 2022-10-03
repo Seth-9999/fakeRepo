@@ -18,4 +18,5 @@ button.grid(row=0, column=0)
 button["command"] = pprint
  
 print("This was added by that fake guy")
+print("Ha ha.... this was added by the real guy so ha@!")
 root.mainloop()
